@@ -1,0 +1,41 @@
+<aura:component>
+    <div class="demo-container">
+ 
+        <div class="slds-large-size--12-of-1 slds-small-size--0-of-1 my-special-hide " style="hight: 545px">
+            <div class="demo-content slds-box slds-box--x-small slds-theme--shade slds-text-align--center slds-m-top--medium">
+                Column Header Content
+            </div>
+        </div>
+            
+        
+        <div class="slds-large-size--1-of-1">
+            <div class="slds-large-size--1-of-4 my-block slds-medium-size--2-of-4 slds-scrollable" style="height: 600px;">
+            <div class="demo-content slds-box slds-box--x-small slds-theme--shade slds-text-align--center slds-m-top--medium"> left column content</div>
+
+           <div class="slds-text-align--center" style="width:90%">
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  <p>Sit nulla est ex deserunt exercitation anim occaecat. Nostrud ullamco deserunt aute id consequat veniam incididunt duis in sint irure nisi. Mollit officia cillum Lorem ullamco minim nostrud elit officia tempor esse quis.</p>
+                  </div>
+               
+        </div>
+        
+      
+            
+            
+                <div class="slds-large-size--3-of-4 my-block slds-small-size--2-of-4 my-special-show" style="height: 545px;">
+                    <div class="demo-content slds-box slds-box--x-small slds-theme--shade slds-text-align--center slds-m-top--medium"> Right Columns content</div>
+                </div>
+            </div>
+        </div>
+
+
+        
+    
+</aura:component>

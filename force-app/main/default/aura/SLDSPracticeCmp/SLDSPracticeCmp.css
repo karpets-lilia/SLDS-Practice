@@ -1,0 +1,28 @@
+.THIS.demo-container {
+    border:1px solid #ccc;
+    border-style: dashed;
+    background-color: #42a1f4;
+}
+
+.THIS .my-block {
+    border:1px solid #ccc;
+    border-style: dashed;
+    background-color: #42a1f4;
+    display: inline-grid;
+}
+
+.THIS .demo-content {
+    margin: 15px;
+}
+
+.THIS .my-special-hide {
+    display:inline-grid;
+    width: 100%;
+    background-color: yellow;
+}
+
+@media (max-width: 1050px) {
+    .THIS .my-special-hide {
+        display: none;
+    }
+}
